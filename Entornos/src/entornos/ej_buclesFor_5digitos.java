@@ -6,6 +6,8 @@ public class ej_buclesFor_5digitos {
 		/*contador con 5 d�gitos (X-X-X-X-X), que muestre los n�meros del 0-0-0-0-0 al 9-9-9-9-9,
 		 * con la particularidad que cada vez que aparezca un 3 lo sustituya por una E.*/
 		
+		System.out.println("Esto es un cambio en el archivo");
+		
 		for (int i=0; i<=9; i++) {
 			for (int j=0; j<=9; j++) {
 				for (int k=0; k<=9; k++) {

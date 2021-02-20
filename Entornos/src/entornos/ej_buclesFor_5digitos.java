@@ -7,6 +7,7 @@ public class ej_buclesFor_5digitos {
 		 * con la particularidad que cada vez que aparezca un 3 lo sustituya por una E.*/
 		
 		System.out.println("Esto es un cambio en el archivo");
+		System.out.println("Esto es otro cambio en el archivo");
 		
 		for (int i=0; i<=9; i++) {
 			for (int j=0; j<=9; j++) {

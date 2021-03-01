@@ -48,7 +48,7 @@ public class ej_buclesFor_5digitos {
 								System.out.print(m);
 							}
 							
-							System.out.println(" ");
+							System.out.println("SOY EL PRIMERO, O NO");
 						}
 					}
 				}
